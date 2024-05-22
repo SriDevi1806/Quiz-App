@@ -10,4 +10,4 @@ User-friendly interface
 Demo : https://devi00.netlify.app/ 
 
 Clone the repository:
-
+https://github.com/SriDevi1806/Quiz-App.git
